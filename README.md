@@ -66,7 +66,7 @@
 
 
       --------------
-## Connect With Me
+## CONNECT WITH ME
 <p align="center">
   <a href="https://www.instagram.com/samrivera.multimedia/">
     <img src="https://img.shields.io/badge/Instagram-🟫-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=5C4033" alt="Instagram"/>
