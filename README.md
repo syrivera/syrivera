@@ -1,16 +1,20 @@
-## Hi there 👋
+<!-- 🌄 Animated Minecraft Banner -->
+![Welcome Banner](((https://pin.it/6KxXFCPi2))
 
-<!--
-**syrivera/syrivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🟩🟫 Welcome to Sam's Club   
+*Software Analyst @ JM Family*
+---
 
-Here are some ideas to get you started:
+## 🌱 About Me  
+```diff
++ 🧠 Software Analyst @ JM Family
++ 🧪 Exploring AI & DevSecOps
++ 🎓 Go Noles!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🧱 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-4C9141?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-rivera-b687a0207/)  
+> 🪵 Let’s build something block by block.
+
+![Minecraft Banner](https://pin.it/6KxXFCPi2)
