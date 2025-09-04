@@ -2,9 +2,17 @@
      Minecraft-Themed README
      Green & Brown Aesthetic
      ========================= -->
+<!-- Header GIF -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%20Welcome%20to%20Sam's%20%20Club%20-3C873A?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=5C4033" width="95%" />
+  <img src="https://i.pinimg.com/originals/41/17/38/41173826edcc137e45d994b52047b00c.gif" alt="Minecraft Header GIF" width="100%" style="border-radius:12px;" />
 </p>
+
+<!-- Welcome Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%20Welcome%20to%20Sam's%20Club%20-5C4033?style=flat-square&logo=minecraft&logoColor=white&labelColor=3C873A" width="70%" />
+</p>
+
+
 <p align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
@@ -27,9 +35,11 @@
 - Software Analyst @ JM Family
 - Active on Github, Spotify, Letterboxd, Discord
 - AI and DevSecOps
-- Game development, design, and soundtrack
+- Researcher
+- Game development, design, and soundtrack, 3D printing
 - follow my photography page
 - Go Noles.
+
 
 ---
 
